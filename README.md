@@ -27,7 +27,7 @@ Data Analyst and Programmer Intern @ Senior Grooming (_August 2023_)
 Utilized regression analysis, multivariate regression, statistical, and probability analysis on 2020 US National Election Survey data to assess voter sentiment towards the Democratic Party. Applied sampling theory, cleaned data, and created concise visualizations to summarize findings.
 - Skills: R, statistics, data visualization.
 
-![Regression Analysis](/assets/Difference_in_Mean.png)
+![Regression Analysis](/Assets/Difference_in_Mean.png)
 
 ### 1. Measurement and Description     
 [Publication](https://github.com/naokoi0408/MeasurementAndDescription.Data310/blob/main/1.MeasurementAndDescription.Data310/HW1_Data310_Naoko.pdf)
