@@ -34,4 +34,4 @@ Utilized regression analysis, multivariate regression, statistical, and probabil
 
 This homework assignment analyzes racial differences in legal financial obligations owed to the state of Alabama, using descriptive statistics and visualizations. It also tests a theory on college basketball game outcomes by calculating conditional probabilities.
 
-To achieve a perfect score, I needed to accurately calculate the mean of absolute values in questions 3a and 3c. Additionally, in question 3b, I overcomplicated the calculations for certain events and mixed up variables, which impacted the final probability values.
+From the feedback, I learned the importance of accurate calculations and avoiding unnecessary complexity. To achieve a perfect score, I needed to accurately calculate the mean of absolute values in questions 3a and 3c. Additionally, in question 3b, I overcomplicated the event calculations and confused some variables, which affected the final probability results.
