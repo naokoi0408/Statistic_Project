@@ -30,7 +30,7 @@ Utilized regression analysis, multivariate regression, statistical, and probabil
 ![Regression Analysis](/assets/Difference_in_Mean.png)
 
 ### 1. Measurement and Description     
-[Publication](https://github.com/naokoi0408/MeasurementAndDescription.Data310/blob/main/1.MeasurementAndDescription.Data310/HW1_Data310.Measurement%20and%20description.RMarkdown.pdf)
+[Publication](https://github.com/naokoi0408/MeasurementAndDescription.Data310/blob/main/1.MeasurementAndDescription.Data310/HW1_Data310_Naoko.pdf)
 
 This homework assignment analyzes racial differences in legal financial obligations owed to the state of Alabama, using descriptive statistics and visualizations. It also tests a theory on college basketball game outcomes by calculating conditional probabilities.
 
