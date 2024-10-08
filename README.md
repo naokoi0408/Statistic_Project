@@ -60,3 +60,5 @@ Through this analysis, I gained insights into how variables like political affil
 [Publication](https://github.com/naokoi0408/HypothesisTesting/blob/main/Hypothesis_Testing/HypothesisTesting.pdf)
 
 The analysis explored how college graduation rates impact median income and examined regional differences in walking commutes using the ACSCountyData dataset. Results showed that higher college graduation rates significantly increase median income, while the effect of census region on walking commutes was less pronounced, with only the Northeast showing a potential difference from the Midwest baseline. Overall, education was strongly linked to income, but regional effects on commute patterns were not as conclusive.
+
+![Hypothesis Testing](https://github.com/naokoi0408/Statistics-Project/blob/main/Assets/Hypothesis%20Testing.png)
