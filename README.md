@@ -29,7 +29,7 @@ Utilized regression analysis, multivariate regression, statistical, and probabil
 
 ![Regression Analysis](/Assets/Difference_in_Mean.png)
 
-### 1. Measurement and Description     
+### 2. Measurement and Description     
 [Publication](https://github.com/naokoi0408/MeasurementAndDescription.Data310/blob/main/1.MeasurementAndDescription.Data310/HW1_Data310_Naoko.pdf)
 
 This homework assignment analyzes racial differences in legal financial obligations owed to the state of Alabama, using descriptive statistics and visualizations. It also tests a theory on college basketball game outcomes by calculating conditional probabilities.
@@ -37,3 +37,11 @@ This homework assignment analyzes racial differences in legal financial obligati
 From the feedback, I learned the importance of accurate calculations and avoiding unnecessary complexity. To achieve a perfect score, I needed to accurately calculate the mean of absolute values in questions 3a and 3c. Additionally, in question 3b, I overcomplicated the event calculations and confused some variables, which affected the final probability results.
 
 ![Measurement and Description](Assets/Measurement-and-Description.png)
+
+### 3. Sampling Theory    
+[Publication](https://github.com/naokoi0408/3.SamplingTheory.Data310/blob/main/3.SamplingTheory.Data310/HW3_Data310.pdf)
+
+In this assignment, I explored sampling distribution concepts by illustrating how smaller sample means can approximate population data. I applied the Central Limit Theorem to calculate confidence intervals, showing how larger sample sizes improve accuracy, and justified the cost of surveying more people. Using Ohio 2016 election data, I estimated Trump’s vote share and analyzed regional precincts, calculating mean, variance, and confidence intervals for different sample sizes. 
+
+Feedback from my professor helped me refine my calculations, emphasizing accurate application of population and sample statistics.
+
