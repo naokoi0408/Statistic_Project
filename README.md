@@ -46,3 +46,10 @@ In this assignment, I explored sampling distribution concepts by illustrating ho
 Feedback from my professor helped me refine my calculations, emphasizing accurate application of population and sample statistics.
 
 ![sampling Theory](https://github.com/naokoi0408/Statistics-Project/blob/main/Assets/Sampling%20Theory%20%20.png)
+
+### 4. Estimators
+[Publication]()
+In this assignment, I analyzed polling data using various statistical methods, focusing on confidence intervals for respondents' attitudes toward Hillary Clinton. I used the `t.test()` function to calculate 95% confidence intervals, differentiating between respondents voting for Clinton and those who did not. I found a significant mean difference in warmth toward Clinton between Clinton voters and non-voters, then confirmed these results using the `lm()` function for regression analysis. 
+
+Through this analysis, I gained insights into how variables like political affiliation and education level influence respondents' sentiments toward Clinton.
+![Estimator]()
