@@ -62,3 +62,12 @@ Through this analysis, I gained insights into how variables like political affil
 The analysis explored how college graduation rates impact median income and examined regional differences in walking commutes using the ACSCountyData dataset. Results showed that higher college graduation rates significantly increase median income, while the effect of census region on walking commutes was less pronounced, with only the Northeast showing a potential difference from the Midwest baseline. Overall, education was strongly linked to income, but regional effects on commute patterns were not as conclusive.
 
 ![Hypothesis Testing](https://github.com/naokoi0408/Statistics-Project/blob/main/Assets/Hypothesis%20Testing.png)
+
+### 6. Multivariate regression 
+[Publication](
+
+In this assignment, I analyzed the relationship between median income and child poverty while exploring the effects of unemployment and census regions using the ACS County Data. The feedback highlighted the need to use built-in polynomial functions for regression and correctly interpret interaction effects. 
+
+From the feedback, I learned to consider how data subsetting could affect results and gained insights into more accurate regression modeling techniques, especially regarding confounding variables and functional forms. Additionally, I realized the importance of using appropriate methods for polynomial terms and the implications of interaction terms in regression analysis.
+
+![Multivariate regression](
