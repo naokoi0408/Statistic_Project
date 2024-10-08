@@ -45,3 +45,4 @@ In this assignment, I explored sampling distribution concepts by illustrating ho
 
 Feedback from my professor helped me refine my calculations, emphasizing accurate application of population and sample statistics.
 
+![sampling Theory]
