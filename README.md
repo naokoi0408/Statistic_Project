@@ -63,11 +63,3 @@ The analysis explored how college graduation rates impact median income and exam
 
 ![Hypothesis Testing](https://github.com/naokoi0408/Statistics-Project/blob/main/Assets/Hypothesis%20Testing.png)
 
-### 6. Multivariate regression 
-[Publication](
-
-In this assignment, I analyzed the relationship between median income and child poverty while exploring the effects of unemployment and census regions using the ACS County Data. The feedback highlighted the need to use built-in polynomial functions for regression and correctly interpret interaction effects. 
-
-From the feedback, I learned to consider how data subsetting could affect results and gained insights into more accurate regression modeling techniques, especially regarding confounding variables and functional forms. Additionally, I realized the importance of using appropriate methods for polynomial terms and the implications of interaction terms in regression analysis.
-
-![Multivariate regression](
